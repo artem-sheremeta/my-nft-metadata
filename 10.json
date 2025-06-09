@@ -1,0 +1,6 @@
+{
+  "name": "11NFT",
+  "description": "This is my very first NFT on HyperEVM",
+  "image": "10.png",
+  "attributes": [{ "trait_type": "Level", "value": 11 }]
+}
